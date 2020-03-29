@@ -9,4 +9,4 @@ I am testing this for the first time:
 
 ## This link below was given by binder.org.
 let's see if it works:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ssundarganesh/python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ssundarganesh/python/master?filepath=%2FNotebooks%2Findex.ipynb)
